@@ -25,4 +25,6 @@ O programa foi desenvolvido utilizando a biblioteca Opencv para manipulação da
 - Translação
 
 ## Como iniciar o programa?
-Execute o arquivo main.py pelo terminal, utilizando o comando `python3 main.py`.
+- Primeiramente é necessário ter instalado o `python3` e `python3-tk`
+- Após, é preciso instalar as dependências com o comando `pip install -r requirements.txt`
+- Com todas as dependências instaladas é possível executar o arquivo `main.py` pelo terminal, utilizando o comando `python3 main.py`
